@@ -14,3 +14,5 @@ as well as update pyqt5 tutorial https://build-system.fman.io/pyqt5-tutorial, th
 official site for more usefull information: https://doc.qt.io/qt-5/index.html it is referenced in C++ but the same in python.
 
 [![Demo CountPages alpha](https://j.gifs.com/nxm735.gif)](https://youtu.be/Ocg9ul_KSAU)
+
+Demo link: https://youtu.be/Ocg9ul_KSAU
